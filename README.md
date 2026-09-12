@@ -139,4 +139,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ## Contact
 
-[Your email. Or the repo issues. Or both.]
+[Dev.jordanmorris@gmail.com]
